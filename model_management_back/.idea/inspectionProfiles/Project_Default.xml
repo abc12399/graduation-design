@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="DataToNeo4j.build_neo4j_datasets.build_node_relation" />
+          <option value="DataToNeo4j.build_method_paper_component.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
